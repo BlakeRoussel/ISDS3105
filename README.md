@@ -1,3 +1,3 @@
 # ISDS3105
-Blake Roussel
+Blake S. Roussel
 First commit
